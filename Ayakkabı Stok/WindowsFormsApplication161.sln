@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.3
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication161", "WindowsFormsApplication161\WindowsFormsApplication161.csproj", "{DEBB76B9-25E4-4FED-A08E-124E24357E3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LİSTE KAYIT", "..\LİSTE KAYIT\LİSTE KAYIT.csproj", "{E59A572E-59EF-49B4-9198-6EB78A88E418}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEBB76B9-25E4-4FED-A08E-124E24357E3E}.Debug|x86.ActiveCfg = Debug|x86
+		{DEBB76B9-25E4-4FED-A08E-124E24357E3E}.Debug|x86.Build.0 = Debug|x86
+		{DEBB76B9-25E4-4FED-A08E-124E24357E3E}.Release|x86.ActiveCfg = Release|x86
+		{DEBB76B9-25E4-4FED-A08E-124E24357E3E}.Release|x86.Build.0 = Release|x86
+		{E59A572E-59EF-49B4-9198-6EB78A88E418}.Debug|x86.Build.0 = Debug|Any CPU
+		{E59A572E-59EF-49B4-9198-6EB78A88E418}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E59A572E-59EF-49B4-9198-6EB78A88E418}.Release|x86.Build.0 = Release|Any CPU
+		{E59A572E-59EF-49B4-9198-6EB78A88E418}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

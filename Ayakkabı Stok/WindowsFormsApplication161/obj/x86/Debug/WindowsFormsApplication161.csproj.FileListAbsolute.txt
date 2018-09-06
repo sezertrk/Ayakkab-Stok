@@ -1,0 +1,11 @@
+c:\users\gökhan\documents\visual studio 2010\Projects\WindowsFormsApplication161\WindowsFormsApplication161\bin\Debug\WindowsFormsApplication161.exe
+c:\users\gökhan\documents\visual studio 2010\Projects\WindowsFormsApplication161\WindowsFormsApplication161\bin\Debug\WindowsFormsApplication161.pdb
+c:\users\gökhan\documents\visual studio 2010\Projects\WindowsFormsApplication161\WindowsFormsApplication161\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\gökhan\documents\visual studio 2010\Projects\WindowsFormsApplication161\WindowsFormsApplication161\obj\x86\Debug\WindowsFormsApplication161.Form1.resources
+c:\users\gökhan\documents\visual studio 2010\Projects\WindowsFormsApplication161\WindowsFormsApplication161\obj\x86\Debug\WindowsFormsApplication161.Properties.Resources.resources
+c:\users\gökhan\documents\visual studio 2010\Projects\WindowsFormsApplication161\WindowsFormsApplication161\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\gökhan\documents\visual studio 2010\Projects\WindowsFormsApplication161\WindowsFormsApplication161\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\gökhan\documents\visual studio 2010\Projects\WindowsFormsApplication161\WindowsFormsApplication161\obj\x86\Debug\WindowsFormsApplication161.exe
+c:\users\gökhan\documents\visual studio 2010\Projects\WindowsFormsApplication161\WindowsFormsApplication161\obj\x86\Debug\WindowsFormsApplication161.pdb
+E:\PROJELERİM\Ayakkabı Stok\WindowsFormsApplication161\obj\x86\Debug\WindowsFormsApplication161.exe
+E:\PROJELERİM\Ayakkabı Stok\WindowsFormsApplication161\obj\x86\Debug\WindowsFormsApplication161.pdb
