@@ -1,0 +1,1 @@
+# Ayakkab-Stok
